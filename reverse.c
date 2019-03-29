@@ -70,3 +70,8 @@ int main (void)
 	to_binary(n);
 	printf("\n\r");
 }
+
+
+
+
+
